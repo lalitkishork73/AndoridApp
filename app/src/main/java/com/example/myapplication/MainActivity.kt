@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
 
                 ) { innerPadding ->
                     Greeting(
-                        name = "Android is my conuntry all country are my android asdads",
+                        name = "Android",
                         modifier = Modifier.padding(innerPadding),
                     )
                 }
